@@ -1,0 +1,15 @@
+#title {
+  color: red;
+}
+
+.btn {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-items: center;
+}
